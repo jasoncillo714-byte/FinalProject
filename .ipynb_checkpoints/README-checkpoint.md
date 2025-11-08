@@ -1,4 +1,2 @@
 # FinalProject
 This is out Final project for Big Ideas
-
-Jason Cillo - jdc260@pitt.edu
